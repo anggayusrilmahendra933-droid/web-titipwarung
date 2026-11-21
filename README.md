@@ -1,19 +1,8 @@
-# TitipWarung
+## Figma Design
 
-**Platform Digital UMKM**
+Desain UI/UX website TitipWarung dibuat menggunakan Figma.
 
-## Tentang Project
-TitipWarung adalah konsep platform digital yang dirancang untuk membantu memperkenalkan dan mempromosikan produk UMKM secara online.
+**Lihat desain lengkap:**
 
-## UI/UX Design
-Desain antarmuka website TitipWarung dibuat menggunakan Figma dengan memperhatikan tampilan yang modern, sederhana, dan mudah digunakan.
+[Open TitipWarung Design on Figma](https://www.figma.com/design/cUcidLNiftZaawpmgI9VSz/Untitled?node-id=0-1)
 
-## Tools
-- Figma
-- GitHub
-
-## File Design
-- `TitipWarung-UI-UX.fig`
-
-## Status Project
-UI/UX Design – Completed
